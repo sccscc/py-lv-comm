@@ -27,5 +27,5 @@ A very simple example, demonstrating the communication between Python and LabVIE
  A more advanced example, demonstrating handling of standard data types + numpy arrays.
  * Start the Python-server (*py-lv-comm_python-server.py*) and the LabVIEW-client (*py-lv-comm_labview-client.vi*).
  * You can either send a command directly from LabVIEW or read various data types using the corresponding buttons.
-   * The Python script creates an object called *test*. Tyoe e.g. `test.var_int` and hit *Read Int* in LabVIEW to read the value of the variable *test.var_int*.
+   * The Python script creates an object called *test*. Type e.g. `test.var_int` and hit *Read Int* in LabVIEW to read the value of the variable *test.var_int*.
    * Look into the Python scripts for more variables and methods. It is self-explaining.
