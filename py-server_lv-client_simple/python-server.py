@@ -2,7 +2,7 @@ import zmq
 
 
 def test():
-    return "It Works!"
+    return "It works!"
 
 
 def my_sum(a, b):
